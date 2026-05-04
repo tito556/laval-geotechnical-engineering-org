@@ -1,0 +1,51 @@
+# Geotechnical Engineering — Laval
+
+> Geotechnical engineering services in Laval, Canada.
+
+## Services
+- [Anchors](https://laval.geotechnical-engineering.org/anchors/)
+- [Atterberg Limits](https://laval.geotechnical-engineering.org/atterberg-limits/)
+- [Cbr Road](https://laval.geotechnical-engineering.org/cbr-road/)
+- [Cpt Test](https://laval.geotechnical-engineering.org/cpt-test/)
+- [Deep Excavations](https://laval.geotechnical-engineering.org/deep-excavations/)
+- [Excavation Monitoring](https://laval.geotechnical-engineering.org/excavation-monitoring/)
+- [Excavations](https://laval.geotechnical-engineering.org/excavations/)
+- [Flexible Pavement](https://laval.geotechnical-engineering.org/flexible-pavement/)
+- [Footings](https://laval.geotechnical-engineering.org/footings/)
+- [Foundations](https://laval.geotechnical-engineering.org/foundations/)
+- [Grain Size](https://laval.geotechnical-engineering.org/grain-size/)
+- [Ground Improvement](https://laval.geotechnical-engineering.org/ground-improvement/)
+- [Grouting](https://laval.geotechnical-engineering.org/grouting/)
+- [In Situ Permeability](https://laval.geotechnical-engineering.org/in-situ-permeability/)
+- [Investigation](https://laval.geotechnical-engineering.org/investigation/)
+- [Lab In Situ](https://laval.geotechnical-engineering.org/lab-in-situ/)
+- [Laboratory](https://laval.geotechnical-engineering.org/laboratory/)
+- [Liquefaction](https://laval.geotechnical-engineering.org/liquefaction/)
+- [Masw](https://laval.geotechnical-engineering.org/masw/)
+- [Mat Foundations](https://laval.geotechnical-engineering.org/mat-foundations/)
+- [Piles](https://laval.geotechnical-engineering.org/piles/)
+- [Proctor Tests](https://laval.geotechnical-engineering.org/proctor-tests/)
+- [Resistivity](https://laval.geotechnical-engineering.org/resistivity/)
+- [Retaining Walls](https://laval.geotechnical-engineering.org/retaining-walls/)
+- [Rigid Pavement](https://laval.geotechnical-engineering.org/rigid-pavement/)
+- [Road Geotechnics](https://laval.geotechnical-engineering.org/road-geotechnics/)
+- [Sand Cone Density](https://laval.geotechnical-engineering.org/sand-cone-density/)
+- [Seismic](https://laval.geotechnical-engineering.org/seismic/)
+- [Seismic Isolation](https://laval.geotechnical-engineering.org/seismic-isolation/)
+- [Seismic Microzonation](https://laval.geotechnical-engineering.org/seismic-microzonation/)
+- [Seismic Refraction](https://laval.geotechnical-engineering.org/seismic-refraction/)
+- [Slope Stability](https://laval.geotechnical-engineering.org/slope-stability/)
+- [Slopes](https://laval.geotechnical-engineering.org/slopes/)
+- [Soft Ground Tunnels](https://laval.geotechnical-engineering.org/soft-ground-tunnels/)
+- [Spt Drilling](https://laval.geotechnical-engineering.org/spt-drilling/)
+- [Stone Columns](https://laval.geotechnical-engineering.org/stone-columns/)
+- [Test Pits](https://laval.geotechnical-engineering.org/test-pits/)
+- [Triaxial](https://laval.geotechnical-engineering.org/triaxial/)
+- [Vibrocompaction](https://laval.geotechnical-engineering.org/vibrocompaction/)
+
+## Contact
+- Website: https://laval.geotechnical-engineering.org/
+
+## About
+This site provides geotechnical engineering services in Laval, Canada.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
