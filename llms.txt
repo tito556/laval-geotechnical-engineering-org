@@ -13,6 +13,7 @@
 - [Flexible Pavement](https://laval.geotechnical-engineering.org/flexible-pavement/)
 - [Footings](https://laval.geotechnical-engineering.org/footings/)
 - [Foundations](https://laval.geotechnical-engineering.org/foundations/)
+- [Geophysics](https://laval.geotechnical-engineering.org/geophysics/)
 - [Grain Size](https://laval.geotechnical-engineering.org/grain-size/)
 - [Ground Improvement](https://laval.geotechnical-engineering.org/ground-improvement/)
 - [Grouting](https://laval.geotechnical-engineering.org/grouting/)
